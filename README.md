@@ -10,6 +10,12 @@
 - Open finalProjectV1.maxpat in max7 (make sure audio is on in Max)
 - Open Unity and import vr-max-app.unitypackage
 - Open Scenes/02_GAME
+- File > Build Settings > Add scene Scenes/02_GAME to "Scenes in Build"
+- File > Build Settings > Platform > Android > Switch Platform
+- One platform is switched to Android....
+
+Click the Player Settings... button, revealing the PlayerSettings section in the Inspector. Find the Other Settings section and Enable Virtual Reality Supported.
+
 - Run the app in Unity and enjoy!
 
 Derrick Mar - derrickmar1215@berkeley.edu
